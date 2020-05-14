@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EXO4</string>
+    <string name="le_id_du_client">le id du client</string>
+    <string name="le_id_de_la_tache">le id de la tache</string>
+    <string name="le_titre">le titre</string>
+    <string name="etat">Etat</string>
+    <string name="contenu">Contenu</string>
+</resources>
